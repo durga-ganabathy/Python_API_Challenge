@@ -31,22 +31,40 @@ Northern Hemisphere : The r-value is 0.2272260348175748. The r-value indicates a
 Southern Hemisphere : The r-value is -0.18023056513743935 indicates a weak negative correlation between latitude and wind speed in the southern hemisphere.
 
 Part 2: VacationPy
+
  In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the
  geoViews Python library, and the Geoapify API.
+ 
 After narrowing down, the cities that fit the temperature criteria are given below with the corresponding hotels.
+
  Starting hotel search
+ 
 beira - nearest hotel: Hotel Savoy
+
 timbuktu - nearest hotel: Hotel La Maison
+
 salalah - nearest hotel: Muscat International Hotel
+
 shani - nearest hotel: No hotel found
+
 stephenville - nearest hotel: No hotel found
+
 el granada - nearest hotel: Beach House
+
 dhidhdhoo - nearest hotel: Cinnamon Island
+
 lompoc - nearest hotel: Embassy Suites by Hilton Lompoc Central Coast
+
 kontcha - nearest hotel: No hotel found
+
 atar - nearest hotel: فندق سكليل
+
 maintirano - nearest hotel: Hotel Safari
+
 graaff-reinet - nearest hotel: Profcon Resort
+
 long beach - nearest hotel: Westin
+
 laguna - nearest hotel: Holiday Inn Express & Suites
+
 taoudenni - nearest hotel: No hotel found
